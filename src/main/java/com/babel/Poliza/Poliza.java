@@ -7,7 +7,6 @@ public class Poliza {
     private String numero;
     private String nifTomador;
 
-
     public int getId() {
         return id;
     }
